@@ -971,6 +971,7 @@ a{
 .news-section .news-container .member .member-info p{
     line-height: 1.5;
     opacity: .7;
+    padding: 0 10px;
 }
 .news-section .news-container .second-member, .third-member{
     margin-left: 5%;
